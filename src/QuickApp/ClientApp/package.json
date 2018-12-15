@@ -30,7 +30,7 @@
     "@angular/router": "~7.1.0",
     "@ngx-translate/core": "^11.0.1",
     "@swimlane/ngx-datatable": "^14.0.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": ">=4.1.2",
     "bootstrap-datepicker": "^1.8.0",
     "bootstrap-select": "^1.13.3",
     "bootstrap-toggle": "^2.2.2",
